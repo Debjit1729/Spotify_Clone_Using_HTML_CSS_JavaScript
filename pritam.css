@@ -1,0 +1,11 @@
+.songchart ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    cursor: pointer;
+    padding:0px 10px;
+    border: 1px solid rgba(146, 143, 143, 0.491);
+    margin: 12px 0;
+    border-radius: 5px;
+}
